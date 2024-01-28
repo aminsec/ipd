@@ -1,4 +1,5 @@
 # IP-Details
 
-Install:\n
+Install:
+
 `go install -v github.com/aminsec/ipd@latest`
